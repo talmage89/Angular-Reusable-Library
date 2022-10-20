@@ -10,8 +10,6 @@ The "testing" project is a simple frontend application that demonstrates the abi
 
 To host the "testing" frontend locally:
 
-1. Clone the repo
-2. Run "ng build buttons" in the terminal
-3. Run "npm install"
-4. Run "npm run package"
-5. Run "ng serve testing"
+1. Clone the repo and cd into it
+2. Run "npm install"
+3. Run "ng serve testing"
