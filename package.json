@@ -20,7 +20,7 @@
     "@angular/platform-browser": "^14.0.0",
     "@angular/platform-browser-dynamic": "^14.0.0",
     "@angular/router": "^14.0.0",
-    "buttons": "file:dist/buttons/buttons-1.0.0.tgz",
+    "buttons": "file:buttons-1.0.0.tgz",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
