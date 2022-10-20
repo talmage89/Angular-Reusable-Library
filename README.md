@@ -1,6 +1,6 @@
 # Angular Reusable Library
 
-This project is a very demonstration of a reusable Angular library.
+This project is a very basic demonstration of a reusable Angular library.
 
 The "buttons" project in this workspace contains a library of components and modules which are exposed through a public api interface.
 
