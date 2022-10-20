@@ -2,7 +2,11 @@
 
 This project is a very basic demonstration of a reusable Angular library.
 
+## Buttons
+
 The "buttons" project in this workspace contains a library of components and modules which are exposed through a public api interface.
+
+## Testing
 
 The "testing" project is a simple frontend application that demonstrates the ability to use the library's components outside of the project.
 
