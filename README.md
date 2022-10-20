@@ -12,5 +12,6 @@ To host the "testing" frontend locally:
 
 1. Clone the repo
 2. Run "ng build buttons" in the terminal
-3. Run "npm run package"
-4. Run "ng serve testing"
+3. Run "npm install"
+4. Run "npm run package"
+5. Run "ng serve testing"
