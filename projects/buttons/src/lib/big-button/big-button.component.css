@@ -1,0 +1,28 @@
+button {
+    background-color: blue;
+    font-size: 2rem;
+    border: none;
+    padding: 10px 30px;
+    border-radius: 15px;
+    color: white;
+    transition: all .5s;
+    border: 1px solid blue;
+}
+button:hover{
+    color: blue;
+    background-color: white;
+    animation: growAndShrink 1s linear infinite;
+}
+
+@keyframes growAndShrink {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.07);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+

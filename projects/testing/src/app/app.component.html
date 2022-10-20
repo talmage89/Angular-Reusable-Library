@@ -1,0 +1,13 @@
+<div class="page-container">
+    <lib-navbar title="Angular Library" [buttons]="['link', 'link', 'link']"></lib-navbar>
+    <div class="stretch">
+        <h3>Angular Reusable Library</h3>
+        <p>This page is a very basic demonstration of a reusable Angular library. All code for the navbar, footer, and button components is contained within a tar file in the workspace, which is imported into this simple page application using a local npm install path.</p>
+        <p>The official documentation for creating Angular libraries can be found <a href="https://angular.io/guide/creating-libraries">here</a>.</p>
+        <div class="buttons-container">
+            <lib-big-button inputText="A big button that grows"></lib-big-button>
+            <lib-small-button inputText="A small button that spins"></lib-small-button>
+        </div>
+    </div>
+    <lib-footer></lib-footer>
+</div>
